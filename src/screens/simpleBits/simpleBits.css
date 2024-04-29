@@ -1,0 +1,49 @@
+/* HomePage.css
+
+.root {
+  flexGrow: 1;
+}
+
+.mainTitle {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.subtitle {
+  margin-bottom: 2rem;
+}
+
+.sidebar {
+  position: fixed;
+  width: 25%;
+}
+
+.sidebarTitle {
+  font-size: 1.25rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.projectPaper {
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.link {
+  text-decoration: none;
+  color: blue;
+}
+
+.link:hover {
+  text-decoration: underline;
+} */
+
+.pageTitle {
+  font-family: "EB Garamond, serif" !important;
+}
+
+.pageTitleSymbol {
+  font-family: "Playfair Display, serif" !important;
+  color: #ed674c;
+}

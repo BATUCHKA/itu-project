@@ -1,0 +1,37 @@
+/* headerStyles.css */
+
+.textStyle {
+  font-size: 16px !important;
+  font-weight: 600 !important;
+}
+
+.secondTextStyle {
+  font-size: 14px !important;
+  font-weight: 400 !important;
+}
+
+.clickedStyle {
+  color: white; /* Color when clicked */
+}
+
+.unclickedStyle {
+  color: #ab966b; /* Color when not clicked */
+}
+
+.imageBox {
+  width: 70px;
+  height: 80%;
+  background-color: #ed674c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.containerStyle {
+  width: 100vw;
+  height: 13vh;
+  display: flex;
+  background-color: #352f2d;
+  justify-content: space-around;
+  align-items: center;
+}
