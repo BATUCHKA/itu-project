@@ -14,9 +14,9 @@ root.render(
       <Header />
       <Routes>
         <Route path="/" element={<SimpleBits/>} />
-        <Route path="/work" element={<SimpleBits/>} />
+        <Route path="/work" element={<div>work screen</div>} />
         <Route path="/shop" element={<BookStorePage/>} />
-        <Route path="/about" element={<SimpleBits/>} />
+        <Route path="/about" element={<div>about screen</div>} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
